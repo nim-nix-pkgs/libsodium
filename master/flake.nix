@@ -9,7 +9,7 @@
   
   inputs.src-libsodium-master.flake = false;
   inputs.src-libsodium-master.owner = "FedericoCeratto";
-  inputs.src-libsodium-master.ref   = "refs/heads/master";
+  inputs.src-libsodium-master.ref   = "master";
   inputs.src-libsodium-master.repo  = "nim-libsodium";
   inputs.src-libsodium-master.type  = "github";
   
