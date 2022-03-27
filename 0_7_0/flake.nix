@@ -11,6 +11,7 @@
   inputs.src-libsodium-0_7_0.ref   = "refs/tags/0.7.0";
   inputs.src-libsodium-0_7_0.owner = "FedericoCeratto";
   inputs.src-libsodium-0_7_0.repo  = "nim-libsodium";
+  inputs.src-libsodium-0_7_0.dir   = "";
   inputs.src-libsodium-0_7_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
