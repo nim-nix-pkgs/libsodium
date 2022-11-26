@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "0_2_2",
-        "lastModified": 1668775908,
-        "narHash": "sha256-NRzMzGrbRtUtTO8pqx8VMPt4BXJ4ivODlrSJzIL3h/0=",
+        "lastModified": 1669431179,
+        "narHash": "sha256-iOCEeOSLTeSzDXckmYRUfcdTL8W0ALsOgVb4+nQ24/E=",
         "owner": "nim-nix-pkgs",
         "repo": "libsodium",
-        "rev": "4f155f03f226018dd878d16f319720fdfe38f4cf",
+        "rev": "cee5aca79d57ec102ef4315277381cd7e5e9beef",
         "type": "github"
       },
       "original": {
@@ -209,11 +209,11 @@
       },
       "locked": {
         "dir": "0_3_0",
-        "lastModified": 1668775908,
-        "narHash": "sha256-NRzMzGrbRtUtTO8pqx8VMPt4BXJ4ivODlrSJzIL3h/0=",
+        "lastModified": 1669431179,
+        "narHash": "sha256-iOCEeOSLTeSzDXckmYRUfcdTL8W0ALsOgVb4+nQ24/E=",
         "owner": "nim-nix-pkgs",
         "repo": "libsodium",
-        "rev": "4f155f03f226018dd878d16f319720fdfe38f4cf",
+        "rev": "cee5aca79d57ec102ef4315277381cd7e5e9beef",
         "type": "github"
       },
       "original": {
@@ -236,11 +236,11 @@
       },
       "locked": {
         "dir": "0_4_0",
-        "lastModified": 1668775908,
-        "narHash": "sha256-NRzMzGrbRtUtTO8pqx8VMPt4BXJ4ivODlrSJzIL3h/0=",
+        "lastModified": 1669431179,
+        "narHash": "sha256-iOCEeOSLTeSzDXckmYRUfcdTL8W0ALsOgVb4+nQ24/E=",
         "owner": "nim-nix-pkgs",
         "repo": "libsodium",
-        "rev": "4f155f03f226018dd878d16f319720fdfe38f4cf",
+        "rev": "cee5aca79d57ec102ef4315277381cd7e5e9beef",
         "type": "github"
       },
       "original": {
@@ -263,11 +263,11 @@
       },
       "locked": {
         "dir": "0_4_1",
-        "lastModified": 1668775908,
-        "narHash": "sha256-NRzMzGrbRtUtTO8pqx8VMPt4BXJ4ivODlrSJzIL3h/0=",
+        "lastModified": 1669431179,
+        "narHash": "sha256-iOCEeOSLTeSzDXckmYRUfcdTL8W0ALsOgVb4+nQ24/E=",
         "owner": "nim-nix-pkgs",
         "repo": "libsodium",
-        "rev": "4f155f03f226018dd878d16f319720fdfe38f4cf",
+        "rev": "cee5aca79d57ec102ef4315277381cd7e5e9beef",
         "type": "github"
       },
       "original": {
@@ -290,11 +290,11 @@
       },
       "locked": {
         "dir": "0_4_2",
-        "lastModified": 1668775908,
-        "narHash": "sha256-NRzMzGrbRtUtTO8pqx8VMPt4BXJ4ivODlrSJzIL3h/0=",
+        "lastModified": 1669431179,
+        "narHash": "sha256-iOCEeOSLTeSzDXckmYRUfcdTL8W0ALsOgVb4+nQ24/E=",
         "owner": "nim-nix-pkgs",
         "repo": "libsodium",
-        "rev": "4f155f03f226018dd878d16f319720fdfe38f4cf",
+        "rev": "cee5aca79d57ec102ef4315277381cd7e5e9beef",
         "type": "github"
       },
       "original": {
@@ -317,11 +317,11 @@
       },
       "locked": {
         "dir": "0_5_0",
-        "lastModified": 1668775908,
-        "narHash": "sha256-NRzMzGrbRtUtTO8pqx8VMPt4BXJ4ivODlrSJzIL3h/0=",
+        "lastModified": 1669431179,
+        "narHash": "sha256-iOCEeOSLTeSzDXckmYRUfcdTL8W0ALsOgVb4+nQ24/E=",
         "owner": "nim-nix-pkgs",
         "repo": "libsodium",
-        "rev": "4f155f03f226018dd878d16f319720fdfe38f4cf",
+        "rev": "cee5aca79d57ec102ef4315277381cd7e5e9beef",
         "type": "github"
       },
       "original": {
@@ -344,11 +344,11 @@
       },
       "locked": {
         "dir": "0_6_0",
-        "lastModified": 1668775908,
-        "narHash": "sha256-NRzMzGrbRtUtTO8pqx8VMPt4BXJ4ivODlrSJzIL3h/0=",
+        "lastModified": 1669431179,
+        "narHash": "sha256-iOCEeOSLTeSzDXckmYRUfcdTL8W0ALsOgVb4+nQ24/E=",
         "owner": "nim-nix-pkgs",
         "repo": "libsodium",
-        "rev": "4f155f03f226018dd878d16f319720fdfe38f4cf",
+        "rev": "cee5aca79d57ec102ef4315277381cd7e5e9beef",
         "type": "github"
       },
       "original": {
@@ -371,11 +371,11 @@
       },
       "locked": {
         "dir": "0_7_0",
-        "lastModified": 1668775908,
-        "narHash": "sha256-NRzMzGrbRtUtTO8pqx8VMPt4BXJ4ivODlrSJzIL3h/0=",
+        "lastModified": 1669431179,
+        "narHash": "sha256-iOCEeOSLTeSzDXckmYRUfcdTL8W0ALsOgVb4+nQ24/E=",
         "owner": "nim-nix-pkgs",
         "repo": "libsodium",
-        "rev": "4f155f03f226018dd878d16f319720fdfe38f4cf",
+        "rev": "cee5aca79d57ec102ef4315277381cd7e5e9beef",
         "type": "github"
       },
       "original": {
@@ -398,11 +398,11 @@
       },
       "locked": {
         "dir": "0_7_1",
-        "lastModified": 1668775908,
-        "narHash": "sha256-NRzMzGrbRtUtTO8pqx8VMPt4BXJ4ivODlrSJzIL3h/0=",
+        "lastModified": 1669431179,
+        "narHash": "sha256-iOCEeOSLTeSzDXckmYRUfcdTL8W0ALsOgVb4+nQ24/E=",
         "owner": "nim-nix-pkgs",
         "repo": "libsodium",
-        "rev": "4f155f03f226018dd878d16f319720fdfe38f4cf",
+        "rev": "cee5aca79d57ec102ef4315277381cd7e5e9beef",
         "type": "github"
       },
       "original": {
@@ -425,11 +425,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775908,
-        "narHash": "sha256-NRzMzGrbRtUtTO8pqx8VMPt4BXJ4ivODlrSJzIL3h/0=",
+        "lastModified": 1669431179,
+        "narHash": "sha256-iOCEeOSLTeSzDXckmYRUfcdTL8W0ALsOgVb4+nQ24/E=",
         "owner": "nim-nix-pkgs",
         "repo": "libsodium",
-        "rev": "4f155f03f226018dd878d16f319720fdfe38f4cf",
+        "rev": "cee5aca79d57ec102ef4315277381cd7e5e9beef",
         "type": "github"
       },
       "original": {
